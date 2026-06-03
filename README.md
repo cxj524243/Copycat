@@ -1,6 +1,6 @@
 #
 
-在Release处下载压缩包解压即可使用
+在Release处下载压缩包jcxnb.zip解压即可使用
 
 
 
