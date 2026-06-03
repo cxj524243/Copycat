@@ -7,7 +7,7 @@
 
 # 偷瞄（copycat）—— Moodle 自动答题助手
 
-一款针对华南师范大学 Moodle 平台的自动答题工具，基于 Playwright + DeepSeek API，自动识别题型并完成作答。
+一款针对华南师范大学 砺儒云平台的自动答题工具，基于 Playwright + DeepSeek API，自动识别题型并完成作答。
 在右侧Release处下载压缩包jcxnb.zip解压即可使用
 
 ---
