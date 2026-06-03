@@ -2,8 +2,8 @@
 
 在右侧Release处下载压缩包jcxnb.zip解压即可使用
 禁止用于考试作弊！！
-
-
+#
+直接转发压缩包可能导致API被盗用！分享请走仓库release下载
 
 # 偷瞄（copycat）—— Moodle 自动答题助手
 
